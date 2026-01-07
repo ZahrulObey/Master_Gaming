@@ -1,4 +1,4 @@
-# 🎮 UNISOC T606 MASTER GAMING SCRIPT
+# 🎮 UNISOC T606 GAMING MASTER SCRIPT
 
 **Boost performa gaming maksimal untuk chipset Unisoc T606!** Script ini adalah solusi all-in-one untuk menghilangkan lag, mengurangi thermal throttling, dan memberikan pengalaman gaming smooth di perangkat entry-level.
 
